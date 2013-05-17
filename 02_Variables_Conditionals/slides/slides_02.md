@@ -31,6 +31,7 @@ Instructors current role.
 3.	Git
 4.	
 
+---
 
 
 ##Interactive Ruby Shell
@@ -121,7 +122,6 @@ Instructors current role.
 
 ## Homework
 
--	
 
 ---
 
