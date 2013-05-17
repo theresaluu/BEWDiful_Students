@@ -13,14 +13,14 @@
         // strip leading whitespace so it isn't evaluated as code
         var text = ( template || section ).textContent;
 
-        var leadingWs = text.match(/\n( +)/)[1].length,
-            leadingTabs = text.match(/\n(\t*)/)[1].length;
+        var leadingWs = text.match(/^\n?(\s*)/)[1].length,
+            leadingTabs = text.match(/^\n?(\t*)/)[1].length;
 
         if( leadingTabs > 0 ) {
             text = text.replace( new RegExp('\\n?\\t{' + leadingTabs + '}','g'), '\n' );
         }
         else if( leadingWs > 1 ) {
-            text = text.replace( new RegExp('\\n {' + leadingWs + '}','g'), '\n' );
+            text = text.replace( new RegExp('\\n? {' + leadingWs + '}','g'), '\n' );
         }
 
         return text;
