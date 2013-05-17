@@ -15,14 +15,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <link rel="stylesheet" href="../../reveal/css/reveal.min.css">
-    <link rel="stylesheet" href="../../reveal/css/theme/default.css" id="theme">
+    <link rel="stylesheet" href="../../reveal/css/theme/general_assembly.css" id="theme">
 
     <!-- For syntax highlighting -->
     <link rel="stylesheet" href="../../reveal/lib/css/zenburn.css">
 
     <!-- If the query includes 'print-pdf', use the PDF print sheet -->
     <script>
-    document.write( '<link rel="stylesheet" href="../reveal/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+    document.write( '<link rel="stylesheet" href="../../reveal/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
     </script>
 
         <!--[if lt IE 9]>
@@ -31,7 +31,6 @@
     </head>
 
     <body>
-        <h1>Are you working?</h1>
         <div class="reveal">
 
             <!-- Any section element inside of this container is displayed as a slide -->
@@ -55,8 +54,8 @@
 
                 width: 1200,
 
-                theme: Reveal.getQueryHash().theme || 'ga',// available themes are in /css/theme
-                transition: Reveal.getQueryHash().transition || 'concave', // default/cube/page/concave/zoom/linear/fade/none
+                //theme: Reveal.getQueryHash().theme || 'ga',// available themes are in /css/theme
+                transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
 
                 // Optional libraries used to extend on reveal.js
                 dependencies: [
