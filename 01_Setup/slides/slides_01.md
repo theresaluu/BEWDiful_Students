@@ -206,8 +206,8 @@ To set us for a great class we are going to learn command line and git this clas
 
 ---
 
-
-## id="resources" Resources
+<div id="resources">
+## Resources
 Class is Over, but here are some extra resources.
 
 Lesson: Command Line Basics & Git
