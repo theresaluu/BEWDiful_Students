@@ -81,7 +81,7 @@ body {
  * IMAGES
  *********************************************/
  
- img{
+ #icon{
    float: right;
  }
 /*.reveal section img {
