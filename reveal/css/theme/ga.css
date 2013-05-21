@@ -81,8 +81,12 @@ body {
  * IMAGES
  *********************************************/
  
- #icon{
+ img{
    float: right;
+ }
+ 
+  #icon{
+   float: left;
  }
 /*.reveal section img {
   margin: 15px 0px;
