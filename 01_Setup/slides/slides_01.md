@@ -108,9 +108,9 @@ To set us for a great class we are going to learn command line and git this clas
 
 
 
-<div id="icon">![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
+<img id="icon" src='../../assets/ICL_icons/Code_along_icon_md.png'
 ##Command Line Basics
-</div>
+
 ---
 
 
