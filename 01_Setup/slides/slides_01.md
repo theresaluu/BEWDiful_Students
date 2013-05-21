@@ -1,4 +1,6 @@
+<div id="icon">
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
+</div>
 
 #BEWD - Working Like A Developer 
 
@@ -107,9 +109,9 @@ To set us for a great class we are going to learn command line and git this clas
 
 
 
-![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
+<div id="icon">![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Command Line Basics
-
+</div>
 ---
 
 
