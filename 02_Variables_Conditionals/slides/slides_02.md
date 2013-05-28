@@ -29,7 +29,10 @@ Instructors current role.
 1.	COmmand Line
 2.	GitHub
 3.	Git
-4.	
+
+	```def myMethod
+		@people
+	end ```
 
 ---
 
