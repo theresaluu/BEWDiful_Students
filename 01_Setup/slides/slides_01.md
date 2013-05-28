@@ -23,17 +23,12 @@ Instructors current role.
 ##Installation
 ###Terminal
 
-Before we get started lets make sure everyone is ready to go. 
 
-We will introduce ourselves while your computer installs 
+This class is using Ruby 2.0 and Rails 4. 
 
-Macs:- Open Terminal (spotlight type terminal)
-	type: ruby -v: should see ruby 2.0.0
-	
-PCs:- Open command line. Start => run => type cmd
-	type: 
+We are still putting together instructions for both PCs and MACs. 
 
-If you do not see the above lines run this code:
+For now please have students install using your preferred method.
 
 ---
 
@@ -207,11 +202,10 @@ To set us for a great class we are going to learn command line and git this clas
 ---
 
 
-## id="resources" Resources
-Class is Over, but here are some extra resources.
+<div id="resources">
+## Resources: Command Line Basics & Git
 
-Lesson: Command Line Basics & Git
-========
+Class is Over, but here are some extra resources.
 
 ##Cheat Sheet
 
@@ -306,6 +300,7 @@ Here are some to help you keep up:
 
 **Control + l**: Clear the screen        
  
+Read this article about how to assess engineers: https://medium.com/tech-talk/d5f8051afce2
 
 
 ##Git Pictures
