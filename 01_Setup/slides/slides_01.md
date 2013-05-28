@@ -76,11 +76,11 @@ To set us for a great class we are going to learn command line and git this clas
 ##Command Line
 ###Why Work Like A Developer?
 
-* Its Fast!
+* 	Its Fast!
 	*	Working with keyboard increases your speed. The mouse slows you down.
 	*	You are always typing when coding, staying in the environment is faster.
 
-* Its Cool!
+* 	Its Cool!
 	*	Impress your friends as you navigate the computer using your keyboard.
 ---
 
@@ -98,7 +98,6 @@ To set us for a great class we are going to learn command line and git this clas
 ###How Do You Use It?
 
 *	Shell Commands.
-	*	[List Of Commands]()
 
 ---
 
