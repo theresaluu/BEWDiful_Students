@@ -49,7 +49,7 @@ To set us for a great class we are going to learn command line and git this clas
 ---
 
 ##Course Administration
-###What You Will Get From uUs
+###What You Will Get From Us
 
 	* In Class Labs
 	* Homework
