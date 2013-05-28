@@ -46,12 +46,14 @@ To set us for a great class we are going to learn command line and git this clas
 *	To pass the course: 
 	*	Complete 80% of all assigned homework
 	*	Complete final project
-	
-*	What you will get from us
-	* Code Alongs
-	*	Exercises
+---
+
+##Course Administration
+###What You Will Get From uUs
+
+	* In Class Labs
+	* Homework
 	* Slides / resource markdown file to be viewed in GitHub
-	*Quick Fires and Quiz
 	* Awesome instructor
 
 ---
@@ -74,12 +76,12 @@ To set us for a great class we are going to learn command line and git this clas
 ##Command Line
 ###Why Work Like A Developer?
 
-*	Its faster
+* Its Fast!
 	*	Working with keyboard increases your speed. The mouse slows you down.
 	*	You are always typing when coding, staying in the environment is faster.
 
 * Its Cool!
-	*	Impress your friends as you navigate the computer by only using your keyboard.
+	*	Impress your friends as you navigate the computer using your keyboard.
 ---
 
 
