@@ -45,7 +45,7 @@ To set us for a great class we are going to learn command line and git this clas
 
 *	To pass the course: 
 	*	Complete 80% of all assigned homework
-	*	Complete [final project]()
+	*	Complete final project
 	
 *	What you will get from us
 	* Code Alongs
@@ -102,13 +102,13 @@ To set us for a great class we are going to learn command line and git this clas
 
 
 
-![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
+<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
 ##Command Line Basics
 
 ---
 
 
-![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
+<img id="icon" src="../../assets/ICL_icons/Exercise_icon_md.png">
 ## Command Line Basics Exercise
 ---
 
@@ -150,8 +150,7 @@ To set us for a great class we are going to learn command line and git this clas
 ---
 
 
-
-![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
+<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
 ##Git Basics
 
 ---
@@ -174,8 +173,7 @@ To set us for a great class we are going to learn command line and git this clas
 ---
 
 
-
-![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
+<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
 ##Git In Class
 
 ---
@@ -188,8 +186,7 @@ To set us for a great class we are going to learn command line and git this clas
 ---
 
 
-
-![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
+<img id="icon" src="../../assets/ICL_icons//Exercise_icon_md.png">
 ## Git It Together
 
 ---
