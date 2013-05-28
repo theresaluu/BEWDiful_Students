@@ -1,5 +1,4 @@
-<img id='icon' src='https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png' >
-
+![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
 #BEWD - Working Like A Developer 
 
@@ -24,17 +23,12 @@ Instructors current role.
 ##Installation
 ###Terminal
 
-Before we get started lets make sure everyone is ready to go. 
 
-We will introduce ourselves while your computer installs 
+This class is using Ruby 2.0 and Rails 4. 
 
-Macs:- Open Terminal (spotlight type terminal)
-	type: ruby -v: should see ruby 2.0.0
-	
-PCs:- Open command line. Start => run => type cmd
-	type: 
+We are still putting together instructions for both PCs and MACs. 
 
-If you do not see the above lines run this code:
+For now please have students install using your preferred method.
 
 ---
 
@@ -108,7 +102,7 @@ To set us for a great class we are going to learn command line and git this clas
 
 
 
-<img id="icon" src='../../assets/ICL_icons/Code_along_icon_md.png'
+![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Command Line Basics
 
 ---
@@ -168,7 +162,7 @@ To set us for a great class we are going to learn command line and git this clas
 
 *	Is Git The Same as GitHub?
 
-![Octocat](../../assets/GitHub/octocat.png)
+![Developer Humor](../../assets/GitHub/octocat.png)
 
 ---
 
@@ -207,12 +201,13 @@ To set us for a great class we are going to learn command line and git this clas
 
 ---
 
+
 <div id="resources">
 ## Resources: Command Line Basics & Git
+
 Class is Over, but here are some extra resources.
 
-
-###Cheat Sheet
+##Cheat Sheet
 
 The terminal (command prompt on Windows) is the developer way of navigating your computer. You are probably used to using the graphical interface provided (Finder on a mac and MyComputer on Windows).
 
@@ -277,7 +272,7 @@ You can rename a file the same way
 		C:\> move old_name new_names
 
 
-###Tips Tricks & Motivation
+##Tips Tricks & Motivation
 
 __How is my instructor moving so fast?__
 
@@ -305,9 +300,10 @@ Here are some to help you keep up:
 
 **Control + l**: Clear the screen        
  
+Read this article about how to assess engineers: https://medium.com/tech-talk/d5f8051afce2
 
 
-###Git Pictures
+##Git Pictures
 ![Git Diagram](../../assets/GitHub/git_in_class_diagram.png)
 
 Fork Button
@@ -318,8 +314,8 @@ Fork Button
 
 
 
-###Still Feel Lost? 
-####Catch Up With These Resources
+##Still Feel Lost? 
+###Catch Up With These Resources
 
 -	[GitHub Cheat Sheet](https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf)
 
