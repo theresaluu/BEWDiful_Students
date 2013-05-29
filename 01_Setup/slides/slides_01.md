@@ -50,12 +50,11 @@ Before we get started lets make sure everyone is ready to go. This class is usin
 We'll help you get everything installed.
 
 * Homebrew - http://mxcl.github.io/homebrew/
-	* Once homebrew is installed, do these commands:
-	* brew install git
-	* brew install ruby-build
-	* brew install rbenv
-	* add this to your "profile" file: `if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi`
-	* rbenv install 2.0.0-p0
+* brew install git
+* brew install ruby-build
+* brew install rbenv
+* add this to your "profile" file: `if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi`
+* rbenv install 2.0.0-p0
 
 
 ---
@@ -104,9 +103,13 @@ In the search box:
 
 ![](../../assets/ICL_icons/Code_along_icon_md.png)
 
+---
+
 ##Command Line Basics
 
 ![](../../assets/ICL_icons/Exercise_icon_md.png)
+
+---
 
 ## Level 1: Complete!
 
