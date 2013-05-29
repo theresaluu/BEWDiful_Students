@@ -1,66 +1,60 @@
-<img id="icon" src="https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png ">
+<img id='icon' src='https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png'>
 
-#BEWD - Working Like A Developer 
-
-###Instructor Name
-
-Instructors current role.
-
----
-
+#BEWD - Working Like A Developer
 
 ##Agenda
 
-*	Installation
-*	Intros
-*	What is Web Development
+*	Install Party!
+*	Intros / Aspirations
 *	Bash Commands
 *	Using GitHub
 
 ---
 
 
-##Installation
-###Terminal
-
-
-This class is using Ruby 2.0 and Rails 4. 
-
-We are still putting together instructions for both PCs and MACs. 
-
-For now please have students install using your preferred method.
-
----
-
-
 ##Introductions
-Instructors choose your ice breaker
+
+#### Robert Ross
+Robert Ross (Bobby Tables) describes himself as a full on, full time, full insomniac nerd. He writes code to eat and eats while he codes. He's always on the lookout for new and emerging technologies, most recently automation of his apartment. Bobby worked as senior engineer for Venice based design and development agency Philosophie and is now at Thunderbolt Labs as a software engineer.
+
+__Personal aspirations for this course__
+
+* You are agile in Sublime Text.
+* You have the ability to track down a bug and fix it on your own.
+* You are a Google ninja.
+
+#### Jeffrey Dickey
+Jeff Dickey is the lead engineer at ProductionBeast, a networking app for the entertainment industry. He grew up in Oregon and spent a few years in San Francisco at 7 different startups. He has been building Rails apps for about 4 years, including one that receives over 1 million requests per minute making it likely the largest Rails installation in the world.
 
 ---
 
 ##Course Administration
-###Lets Get This Out Of The Way
 
-To set us for a great class we are going to learn command line and git this class. Then Ruby then Rails. 
-
-*	To pass the course: 
+*	To pass the course:
 	*	Complete 80% of all assigned homework
-	*	Complete final project
+	*	Complete the final project
+
+*	What can you expect?
+	* Code Alongs - Portions of class where I will write code and you follow along.
+	* Exercises - Portions of class where you go it alone.
+	* Slides / Resources files to that can be viewed on GitHub.
+	* Quick Fires - Challenge time!
+	* Group Quizzes
+	* Awesome instructors, duh.
+
 ---
 
-##Course Administration
-###What You Will Get From Us
+##Installation
 
-	* In Class Labs
-	* Homework
-	* Slides / resource markdown file to be viewed in GitHub
-	* Awesome instructor
+Before we get started lets make sure everyone is ready to go. This class is using Ruby 2.0 and Rails 4.
+We'll help you get everything installed.
 
 ---
 
 
-##Web Development
-###What is Back-end Web Development?
+##Pre Backend Web Development
+
+To set us up for a great course we are going to learn about the command line and git this class. These are essential for you too succeed in this course. Your ability to work naturally with them will ensure your success in Ruby and then Rails.
 
 ---
 
@@ -68,7 +62,7 @@ To set us for a great class we are going to learn command line and git this clas
 
 ##Command Line
 ###Lets learn how to work like a programmer before we start to build web applications.
-![Workflow](../../assets/command_line/dev_workflow.png)
+![](../../assets/command_line/dev_workflow.png)
 
 ---
 
@@ -76,20 +70,22 @@ To set us for a great class we are going to learn command line and git this clas
 ##Command Line
 ###Why Work Like A Developer?
 
-* 	Its Fast!
-	*	Working with keyboard increases your speed. The mouse slows you down.
-	*	You are always typing when coding, staying in the environment is faster.
+*	Using the keyboard exclusively increases your speed in the world of programming.
+* With proper voice overs, you can to pretend to be in the matrix. (Outside assignment)
 
-* 	Its Cool!
-	*	Impress your friends as you navigate the computer using your keyboard.
 ---
-
-
 
 ##Command Line
 ###What And Where Is It?
 
 ![Find The Terminal](../../assets/command_line/spotlight.png)
+
+The command line is where you can issue system commands, such as creating, removing, or moving files.
+
+In the search box:
+
+* For Mac: `terminal`
+* For Windows: `cmd`
 
 ---
 
@@ -97,35 +93,26 @@ To set us for a great class we are going to learn command line and git this clas
 ##Command Line
 ###How Do You Use It?
 
-*	Shell Commands.
+![](../../assets/ICL_icons/Code_along_icon_md.png)
 
----
-
-
-
-<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
 ##Command Line Basics
 
----
+![](../../assets/ICL_icons/Exercise_icon_md.png)
 
+## Level 1: Complete!
 
-<img id="icon" src="../../assets/ICL_icons/Exercise_icon_md.png">
-## Command Line Basics Exercise
----
+You've successfully entered the world of the terminal. The terminal is the most used tool in your developer toolbelt.
+Your ability to use the terminal is essential. It MUST be practiced. If you can, try using the terminal to navigate and find files to open from now on.
 
+## Break: 10 minutes
 
-##Terminal
-###Join The Developer Club
-
-*	You are now one of the cool kids. 
-	*	Keep practicing and see the GA cheat sheet for now you should know
-		*	cd, ls, rm, mkdir
+Stretch your legs, figure out the favorite color of the person next you, restroom.
 
 ---
 
 
 ##GIT
-![Using Git](../../assets/GitHub/using_gitHub.png)
+![](../../assets/GitHub/using_gitHub.png)
 
 ---
 
@@ -133,7 +120,7 @@ To set us for a great class we are going to learn command line and git this clas
 ##GIT
 ###What Is GIT?
 
-![Using Git](../../assets/GitHub/git_general_diagram.png)
+![](../../assets/GitHub/git_general_diagram.png)
 
 
 ---
@@ -142,17 +129,17 @@ To set us for a great class we are going to learn command line and git this clas
 ##GIT
 ###Why Use GIT?
 
-*	Confident Changes
-*	Checkpoints
-*	File recovery 
+*	File Checkpoints
+*	Story of your Project
 
-![Why Use GIT](../../assets/GitHub/why_use_git.png)
+![](../../assets/GitHub/why_use_git.png)
 
 ---
 
 
-<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
+
 ##Git Basics
+![](../../assets/ICL_icons/Code_along_icon_md.png)
 
 ---
 
@@ -162,33 +149,36 @@ To set us for a great class we are going to learn command line and git this clas
 
 *	Is Git The Same as GitHub?
 
-![Developer Humor](../../assets/GitHub/octocat.png)
+![](../../assets/GitHub/octocat.png)
 
 ---
 
 
 ##GITHUB
 ###FORKS
-![ Git In Class Diagram](../../assets/GitHub/fork_Diagram.png)
+![](../../assets/GitHub/fork_Diagram.png)
 
 ---
 
 
-<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
+
 ##Git In Class
+![](../../assets/ICL_icons/Code_along_icon_md.png)
+
 
 ---
 
 
 ##GITHUB
 ###Using Git For Homework
-![ Git In Class Diagram](../../assets/GitHub/fork_diagram_ga.png)
+![](../../assets/GitHub/fork_diagram_ga.png)
 
 ---
 
 
-<img id="icon" src="../../assets/ICL_icons//Exercise_icon_md.png">
+
 ## Git It Together
+![](../../assets/ICL_icons/Exercise_icon_md.png)
 
 ---
 
@@ -200,7 +190,6 @@ To set us for a great class we are going to learn command line and git this clas
 ---
 
 
-<div id="resources">
 ## Resources: Command Line Basics & Git
 
 Class is Over, but here are some extra resources.
@@ -209,7 +198,7 @@ Class is Over, but here are some extra resources.
 
 The terminal (command prompt on Windows) is the developer way of navigating your computer. You are probably used to using the graphical interface provided (Finder on a mac and MyComputer on Windows).
 
-Here is a quick reference for some of the most common commands you will use in this class. 
+Here is a quick reference for some of the most common commands you will use in this class.
 Remember when you see ```“$”``` or ```“C:\>”``` in these notes that is the prompt, don’t type it.
 
  		$  MAC
@@ -254,7 +243,7 @@ How do I delete a folder?
 		c:\> rmdir folder-name
 
 How do I delete a file?
-		
+
 		$rm -f file_name
 		C:\> del file_name
 
@@ -274,21 +263,21 @@ You can rename a file the same way
 
 __How is my instructor moving so fast?__
 
-We hire wizards from Hogwarts to teach our courses. Just kidding they’re using shortcuts in the command line. 
+We hire wizards from Hogwarts to teach our courses. Just kidding they’re using shortcuts in the command line.
 
 Here are some to help you keep up:
 
-**Tab Completion**: Press Tab to complete folder and file names                                                       
+**Tab Completion**: Press Tab to complete folder and file names
 
-**Control + a**: Go to the beginning of the line                                                                      
+**Control + a**: Go to the beginning of the line
 
-**Control + e**: Go the the end of the line                                                                      
+**Control + e**: Go the the end of the line
 
 **Option + b**: Move back one word
 
 **Option + f**: Move forward one word
 
-**Up/Down Arrow Keys**: Repeats previous commands                                                               
+**Up/Down Arrow Keys**: Repeats previous commands
 
 **Control + w**: Delete last word typed
 
@@ -296,8 +285,8 @@ Here are some to help you keep up:
 
 **Control + y**: Paste last deleted item
 
-**Control + l**: Clear the screen        
- 
+**Control + l**: Clear the screen
+
 Read this article about how to assess engineers: https://medium.com/tech-talk/d5f8051afce2
 
 
@@ -312,11 +301,11 @@ Fork Button
 
 
 
-##Still Feel Lost? 
+##Still Feel Lost?
 ###Catch Up With These Resources
+
+-	[Intro to Git Tutorial](http://www.codeschool.com/courses/try-git) from Code School.
 
 -	[GitHub Cheat Sheet](https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf)
 
 -	[Intro to Git Videos](http://git-scm.com/videos)
-
--	[Intro to Git Tutorial](http://www.codeschool.com/courses/try-git) from Code School.
