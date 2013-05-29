@@ -36,7 +36,7 @@ Jeff Dickey is the lead engineer at ProductionBeast, a networking app for the en
 
 *	What can you expect?
 	* Code Alongs - Portions of class where I will write code and you follow along.
-	* Exercises - Portions of class where you go it alone.
+	*	Exercises - Portions of class where you go it alone.
 	* Slides / Resources files to that can be viewed on GitHub.
 	* Quick Fires - Challenge time!
 	* Group Quizzes
@@ -48,6 +48,15 @@ Jeff Dickey is the lead engineer at ProductionBeast, a networking app for the en
 
 Before we get started lets make sure everyone is ready to go. This class is using Ruby 2.0 and Rails 4.
 We'll help you get everything installed.
+
+* Homebrew - http://mxcl.github.io/homebrew/
+	* Once homebrew is installed, do these commands:
+	* brew install git
+	* brew install ruby-build
+	* brew install rbenv
+	* add this to your "profile" file: `if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi`
+	* rbenv install 2.0.0-p0
+
 
 ---
 
