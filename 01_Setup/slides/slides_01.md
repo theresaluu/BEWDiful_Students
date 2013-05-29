@@ -15,6 +15,11 @@
 ##Introductions
 
 #### Robert Ross
+#### Jeff Dickey
+
+---
+
+#### Robert Ross
 Robert Ross (Bobby Tables) describes himself as a full on, full time, full insomniac nerd. He writes code to eat and eats while he codes. He's always on the lookout for new and emerging technologies, most recently automation of his apartment. Bobby worked as senior engineer for Venice based design and development agency Philosophie and is now at Thunderbolt Labs as a software engineer.
 
 __Personal aspirations for this course__
@@ -22,6 +27,8 @@ __Personal aspirations for this course__
 * You are agile in Sublime Text.
 * You have the ability to track down a bug and fix it on your own.
 * You are a Google ninja.
+
+---
 
 #### Jeffrey Dickey
 Jeff Dickey is the lead engineer at ProductionBeast, a networking app for the entertainment industry. He grew up in Oregon and spent a few years in San Francisco at 7 different startups. He has been building Rails apps for about 4 years, including one that receives over 1 million requests per minute making it likely the largest Rails installation in the world.
