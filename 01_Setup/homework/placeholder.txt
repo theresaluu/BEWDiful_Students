@@ -1,0 +1,25 @@
+Link to Published Post: http://rubynista.wordpress.com/2013/05/30/move-over-coachella-general-assemblys-back-end-web-developments-installfest-2013/
+
+Move Over, Coachella! General Assembly’s Back-End Web Development’s Installfest 2013!
+
+Where were you on Tuesday, May 28, 2013 at 7PM?  I was at my first session of General Assembly’s Back-End Web Development (BEWD) series.  I hesitate to call it a class, because it is cooler than the average bear.  It was a packed room!  Our cohort are among first folks in the General Assembly LA community. 
+
+Background: How Did I Get There?
+
+Fueled by an AP article sent to me by my friend, Amanda, I was searching high and low for options in programming bootcamps.  It looked like I was going to have to move to SF- good for my lifestyle (I LOVE SF), bad for my wallet (because I LOVE SF).   
+
+My decision two years ago to enroll in a CS grad program while working full time in order to learn programming was not fullfilling my needs.  My program allowed me to take the undergrad foundational classes I didn’t attend while earning my BA in International Relations, but I didn’t feel like it was exposing me to marketable skills I would need in a real working environment.  Sure, I could code in C++, but I had no exposure to database, did not know how the back-end related to the front-end, and hadn’t touched html since the hay day of AsianAve (1998?).  I applied to General Assembly’s Immersive Web Development Programming .  Boom- got in (SMRT!).  I had a bit of a scheduling conflict where I would be missing the Advanced Ruby Week  so the solution was to take the BEWD.  I will be Rubying to my heart’s content!
+
+What was it like?
+
+We are a diverse bunch of peeps- students, career-changers, heads of startups, Angelinos, Non-Angelinos, tall, short, men, women (a good amount, too!), sitting, and standing!
+
+We spent the time installing stuff and learning about git, and github.  I kind of wish a list of “Things to install prior to first BEWD meeting” was sent out because we clobbered the wireless connection, but I can see how some of the instructions might have been difficult to convey.  Necessary evil T’was.  We have several people running the class.  They are super helpful, witty, and seemingly patient.  I feel very at home there. 
+
+Prior to that lesson, I knew Github was a fancy “Save-as”, but now I know how to use it! Version Control FTW!
+
+What do you hope to get out of this experience?
+
+I am going to be the Rubiest Nistaist on the block- Nuff Said!
+
+-Rubynista
